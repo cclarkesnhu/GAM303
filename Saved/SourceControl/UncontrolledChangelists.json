@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/My Documents/GAM207FinalProject/CClarkeGAM303/Content/Interfaces/AnimatedInteractables/BP_Door.uasset",
+				"D:/My Documents/GAM207FinalProject/CClarkeGAM303/Content/Inputs/Mapping_Player.uasset",
+				"D:/My Documents/GAM207FinalProject/CClarkeGAM303/Content/Inputs/Input_Movement.uasset",
+				"D:/My Documents/GAM207FinalProject/CClarkeGAM303/Content/Inputs/Input_Look.uasset",
+				"D:/My Documents/GAM207FinalProject/CClarkeGAM303/Content/Player/BP_PlayerChar.uasset",
+				"D:/My Documents/GAM207FinalProject/CClarkeGAM303/Content/Interactables/Interact.uasset"
+			]
+		}
+	]
+}
